@@ -1,0 +1,71 @@
+{
+    "Nombre": "Raúl Sánchez Vázquez",
+    "Email": "raulszvz@gmail.com",
+    "Telefono": "+52 449 103 97 92",
+    "Experiencia":{
+        "Proyectos laborales":{
+            "XXI-CMB-Journal":{
+                "Organización": [
+                    "Sociedad Botanica de Mexico", 
+                    "Universidad Autonoma de San Luis Potosi"
+                ],
+                "Descripcion":"Desarollo de sistema informatico para la recepción y evalución de tesís.",
+                "Puesto":"Full Stack Developer",
+                "Tecnologías-Herramientas":[
+                    "Node js", "Vue js", "Firebase"
+                ],
+                "Fecha":"Primavera 2019"
+            },
+            "XXI-CMB-APP":{
+                "Organización": [
+                    "Sociedad Botanica de Mexico", 
+                    "Universidad Autonama de Aguascalientes"
+                ],
+                "Descripcion":"Desarrollo de aplicación movil multiplataforma para el XXI congreso mexicano de botanica.",
+                "Puesto":"Backend Developer",
+                "Tecnologías-Herramientas":[
+                    "Node js", "Ionic 4", "Angular js"
+                ],
+                "Fecha":"Verano 2019"
+            },
+            "Web-Blancololita":{
+                "Organización": "Blancos Lolita",
+                "Descripcion":"Desarollo de pagina web y plataforma CRM con integración de inventarios y ventas.",
+                "Puesto":"Full Stack Developer",
+                "Tecnologías-Herramientas":[
+                    "Node js", "Express js", "Firebase"
+                ],
+                "Fecha":"Invierno 2019-2020"
+            }
+        },
+        "Proyectos":{
+
+        }
+    },
+    "Habilidades":{
+        "Frontend":[
+            "HTML", "CSS", "Sass", "Vue js"
+        ],
+        "Backend":[
+            "Javascript","Node js", "Express js", "Serverless", "Flask", "Firebase Functions"
+        ],
+        "BD":[
+            "Firestore", "JSON", "SQLite", "SQL"
+        ],
+        "Machine Learning":[
+            "Python", "R", "Tensorflow"
+        ]
+    },
+    "Educación":{
+        "Ingenieria":{
+            "Institución":"Benemerita Univeridad Autónoma de Aguascalientes",
+            "Carrera":"Ingeniería en computación inteligente",
+            "Periodo":"2011 - 2021"
+        },
+        "Tecnico":{
+            "Institución":"CBTis 168",
+            "Carrera":"Mecatronica",
+            "Periodo":"2011 - 2014"
+        }
+    }
+}

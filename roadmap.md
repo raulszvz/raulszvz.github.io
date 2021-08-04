@@ -7,3 +7,7 @@ TinyML
 - [Data Engineering](./roadmap/dataeng.md)
 - [Machine Learning](./roadmap/ml.md)
 - [Electronic](./roadmap/ml)
+
+References
+
+- [Paperspace Cloud Computing](https://www.paperspace.com/pricing)
